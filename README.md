@@ -68,7 +68,7 @@ But how does the **Vader** Sentiment Analyser actually work? The model  uses a *
 <br>
 <br>
 
-3. Simplified, there are two ways of doing this kind project:
+3.Simplified, there are two ways of doing this kind project:
 
 When you do your **working process** of collecting, coding, analysing, 	storing and visualising data completely locally on your computer, it will be necessary to re-run the process every day again and again **manually** to get the latest Data from Twitter.
 <br>
