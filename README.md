@@ -14,13 +14,11 @@ The general goal of this project was to collect "tweets" from the Social media p
 
 In a second step I have build a **Data Pipeline** on **Google Cloud** to automatize the data collection process so that I can see the latest trends refreshed automatically in my specific designed **Tableau** Dashboards. 
 
-**Sentiment Analysis** can show in which general mood Twitter users have been discussing certrain issues. Does their tweets have been written in a positive, negative or neutral sentiment? Are Tweets about politician A are more negative then about politician B on average?
-
 Therefore, I have collected tweets for two example topics. The first one was the controversial movie **"Joker"**.  Journalists and their reviews seem to see the movie more sceptical than the normal audience. I wanted to find out if Sentiment Analysis on Twitter Data can confirm this impression.
 
 The second topic was the **Canadian Election**. I have collected tweets about the two main candidates, Justin Trudeau and Andrew Scheer, to analyse Sentiment towards both of them on Twitter close before Election Day in Canada.
 
-But it general, using different kind of basic data analytics tools combined in one project to build a working **Data Pipeline** was in itself a motivating challenge.
+In general, using different kind of basic data analytics tools combined in one project to build a working **Data Pipeline** was in itself a motivating challenge.
 
 <br>
 
