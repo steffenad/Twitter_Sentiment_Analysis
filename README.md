@@ -50,18 +50,22 @@ There are different types of Sentiment Analyser models.
 Vader is a model used especially for **Social Media content**, and it can show the strength of emotions of a text.
 
 It gives a **sentiment score** between minus 1 for extreme negative and plus 1 for extreme postive texts.
+
 <br>
 
 
 ![](https://imagizer.imageshack.com/img922/2299/jhOU5V.jpg)<br>
 
+
 <br>
 
-	But how does the **Vader** Sentiment Analyser actually work? The model  uses a **dictionary** where every word or Word combinations got a certain score. It also takes also care of punctuation, capitalisation, acronyms, emoticions, curse words or conjunctions.
+But how does the **Vader** Sentiment Analyser actually work? The model  uses a **dictionary** where every word or Word combinations got a certain score. It also takes also care of punctuation, capitalisation, acronyms, emoticions, curse words or conjunctions.
 	
 <br>
 
-![](https://imagizer.imageshack.com/img923/4034/rcfLDW.jpg)<br>
+![](https://imagizer.imageshack.com/img923/4034/rcfLDW.jpg)
+
+<br>
 <br>
 
 3. Simplified, there are two ways of doing this kind project:
