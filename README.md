@@ -112,6 +112,8 @@ In general the **Vader** model seems to work quite well for this topic by confir
  
 ![](https://imagizer.imageshack.com/img921/9093/MIUut9.jpg)
 
+https://public.tableau.com/profile/steffen.ad
+
 On the Dashboard for the **Canadian Election** you can see on top on the left the total number of retrieved tweets, the collected tweets from yesterday and the percentage change compared to the day before.
 
 Below there is a comparison of sentiment towards both main candidates and a graph that shows the total number of tweets, that spiked extremely during the TV debate.
