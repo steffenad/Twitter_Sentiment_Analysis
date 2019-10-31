@@ -130,8 +130,7 @@ Below on the right I have included a graph showing the average sentiment of **Ca
 
 ![](https://imagizer.imageshack.com/img924/6060/n6tTU9.jpg)
 
-
-[arbitrary case-insensitive reference text]:  https://public.tableau.com/profile/steffen.ad
+https://public.tableau.com/profile/steffen.ad
 
 
 
