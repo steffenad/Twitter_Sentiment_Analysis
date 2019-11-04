@@ -10,7 +10,7 @@
 <br>
 
 ## Goal of Project
-The general goal of this project was to collect "tweets" from the Social media plattform **Twitter** of topics of current relevance and interest and to use the plain text of these messages to do **Sentiment Analysis** on it.  
+The general goal of this project was to collect "tweets" from the Social media plattform **Twitter** of topics of current relevance and to use the plain text of these messages to do **Sentiment Analysis** on it.  
 
 In a second step I have build a **Data Pipeline** on **Google Cloud** to automatize the data collection process so that I can see the latest trends refreshed automatically in my specific designed **Tableau** Dashboards. 
 
@@ -18,7 +18,6 @@ Therefore, I have collected tweets for two example topics. The first one was the
 
 The second topic was the **Canadian Election**. I have collected tweets about the two main candidates, Justin Trudeau and Andrew Scheer, to analyse Sentiment towards both of them on Twitter close before Election Day in Canada.
 
-In general, using different kind of basic data analytics tools combined in one project to build a working **Data Pipeline** was in itself a motivating challenge.
 
 <br>
 
