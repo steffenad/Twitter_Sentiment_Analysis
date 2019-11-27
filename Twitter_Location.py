@@ -5,6 +5,7 @@
 
 # In[1]:
 
+#libraries
 
 import os
 import re
@@ -17,6 +18,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # In[2]:
 
+#access keys
 
 consumer_key= 'xxxxxxxxl0VJAJSp9Ob4xxxxxx'
 consumer_secret= 'xxxxxBx1InIFRtdOEIJGxvx2Mxxx'
@@ -31,6 +33,7 @@ api = tw.API(auth, wait_on_rate_limit=True)
 
 # In[3]:
 
+#defining topic,timeframe for tweet collection
 
 yesterday = date.today() - timedelta(days=1)
 today = date.today()
@@ -55,6 +58,8 @@ users_locs = [[tweet.user.name, tweet.lang, tweet.user.location, tweet.coordinat
 
 # In[5]:
 
+#constructing Data Frame
+
 
 twitter_data = pd.DataFrame(data=users_locs,columns=['username','language','location', 'coordinates','created_at',
                                                      'favorite_count','retweet_count','followers','verified','text'])
@@ -67,7 +72,7 @@ twitter_data = twitter_data[['username','language','location','coordinates','cre
 
 # In[6]:
 
-
+#cleaning twitter text
 
 
 def remove_name_and_link(w):
@@ -105,6 +110,7 @@ twitter_data = twitter_data[['created_at','username','verified','location','coor
 
 # In[7]:
 
+#categorize tweet sentiment
 
 def sentiment_analyzer(w):
      if w >= 0.05:
