@@ -111,7 +111,7 @@ In general the **Vader** model seems to work quite well for this topic by confir
  
 ![](https://imagizer.imageshack.com/img921/9093/MIUut9.jpg)
 
-https://public.tableau.com/profile/steffen.ad
+https://public.tableau.com/profile/stad
 
 On the Dashboard for the **Canadian Election** you can see on top on the left the total number of retrieved tweets, the collected tweets from yesterday and the percentage change compared to the day before.
 
@@ -131,7 +131,7 @@ Below on the right I have included a graph showing the average sentiment of **Ca
 
 ![](https://imagizer.imageshack.com/img924/6060/n6tTU9.jpg)
 
-https://public.tableau.com/profile/steffen.ad
+https://public.tableau.com/profile/stad
 
 
 
